@@ -9,7 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-/[Aa]ssets/Firebase/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -71,3 +71,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+# Ignore specific Firebase plugin files
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_2_0.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_2_0.so
