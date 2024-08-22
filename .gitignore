@@ -74,5 +74,5 @@ crashlytics-build.properties
 
 
 # Ignore specific Firebase plugin files
-Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_2_0.bundle
-Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_2_0.so
+/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_2_0.bundle
+/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_2_0.so
